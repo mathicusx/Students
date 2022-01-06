@@ -1,0 +1,18 @@
+.studentContainer{
+    border: 2px solid lightgray;
+    border-radius: 25px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 100px;
+    text-align: center;
+    width: 1070px;
+    height: 700px;
+    overflow: hidden;
+}
+.studentContainer:hover{
+    overflow: scroll;
+    width: 1090px;
+    
+}
+.studentContent{
+    float: left;
+}

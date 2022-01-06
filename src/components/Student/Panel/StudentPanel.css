@@ -1,0 +1,23 @@
+
+   
+
+.panelContainer img{
+    float: left;
+}
+.panelContainer{
+    display: inline;
+}
+.createdTag{ 
+
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    background: lightgray;
+    border:2px solid lightgray;
+    outline: none;
+    width: fit-content;
+    height: 20px;
+}
+.tagsContainer{
+    margin-right: 500px;
+}

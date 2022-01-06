@@ -1,0 +1,7 @@
+
+.submitTag{
+    font-family: inherit;
+    border: none;
+    border-block-end: revert;
+    outline: none;
+}

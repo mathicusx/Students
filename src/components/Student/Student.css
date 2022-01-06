@@ -1,0 +1,35 @@
+.student div{
+    font-weight: 200;
+    text-align: start;
+    margin-left: 200px;
+}
+.studentName{
+    margin-left: 180px !important;
+    font-weight: 900 !important;
+    font-size: xxx-large;
+}
+.studentPic{
+    border-style: solid;
+    
+    margin-top: 15px;
+    margin-left: 20px;
+    border-radius: 50%;
+    border-color: lightgray;
+    height: 140px;
+    width: 140px;
+    float: left;
+    overflow: hidden;
+}
+
+.panelContainer img{
+    float: left;
+
+}
+.panelContainer{
+    width: 500px;
+    height: 200px;
+}
+.student{
+    width: 400px;
+    display: flow-root;
+}
